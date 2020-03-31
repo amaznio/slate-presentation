@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.9.8",
+    "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -10,9 +12,17 @@
     "@types/node": "^12.12.32",
     "@types/react": "^16.9.27",
     "@types/react-dom": "^16.9.5",
+    "@types/slate": "^0.47.5",
+    "@types/slate-react": "^0.22.9",
+    "emotion": "^10.0.27",
+    "is-hotkey": "^0.1.6",
+    "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
+    "slate": "^0.57.1",
+    "slate-history": "^0.57.1",
+    "slate-react": "^0.57.1",
     "typescript": "^3.7.5"
   },
   "scripts": {
